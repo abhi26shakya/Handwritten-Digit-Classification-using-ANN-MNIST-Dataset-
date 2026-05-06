@@ -122,9 +122,6 @@ X_test = X_test / 255
 * Helps detect overfitting
 
 
-
-
-![Uploading Accuracy_graph.png…]()
 <img width="551" height="407" alt="Loss_graph" src="https://github.com/user-attachments/assets/1fd55c70-3db9-495a-a3a2-1a9d7afed8f1" />
 
 
